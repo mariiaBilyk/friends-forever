@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FriendsForever/.vs
+/FriendsForever/FriendsForever.API/bin
+/FriendsForever/FriendsForever.API/obj/Debug
+/FriendsForever/packages
+/Sourses/.vs/FriendsForever/v14
